@@ -101,7 +101,6 @@ while True:
     elif menu == "2":
         refreshMailbox()
     elif menu == "3":
-        print("\nGoodbye!\n")
         break
     else:
         print("\nInvalid option, please try again.\n")
